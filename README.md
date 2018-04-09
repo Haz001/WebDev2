@@ -1,3 +1,4 @@
+
 # WebDev2
 My small tool for webdeveloper.
 It is uncommented and disorganised source so just download it <a href="http://hazonline.co.uk/vs/installer/WD2/setup.exe">Here</a><br/>
@@ -20,8 +21,12 @@ It is uncommented and disorganised source so just download it <a href="http://ha
   <li>Uses internet explorer browser to view</li>  
   <li>Not finnished</li>  
 </ul>  
+
 ## Legal
-I am not responsable for any lossed data that this app may cause(even though it is extramly unlikely).
+
+I am not responsable for any lossed data that this app may cause(even though it is extramly unlikely).<br/>
 This program is not 100% secure.
+
 ## Download
+
 <a href="http://hazonline.co.uk/vs/installer/WD2/setup.exe">CLICK ME NOW!!!</a>
