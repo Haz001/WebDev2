@@ -1,4 +1,3 @@
-
 # WebDev2
 My small tool for webdeveloper.
 It is uncommented and disorganised source so just download it <a href="http://hazonline.co.uk/vs/installer/WD2/setup.exe">Here</a><br/>
@@ -30,3 +29,9 @@ This program is not 100% secure.
 ## Download
 
 <a href="http://hazonline.co.uk/vs/installer/WD2/setup.exe">CLICK ME NOW!!!</a>
+
+## FAQ
+<ul>
+  <li>Where is WebDev1? Abandoned in my projects folder</li>
+  <li>What is OneClick Install? It is a way of publishing programs with visual studios made by microsoft that only needs one click to install. <a href="https://msdn.microsoft.com/en-us/library/t71a733d(VS.100).aspx">Read On</a></li>
+</ul>
