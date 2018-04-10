@@ -1,0 +1,17 @@
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\codeeditor.csprojResolveAssemblyReference.cache
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\codeeditor.csproj.GenerateResource.Cache
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\codeeditor.csproj.CoreCompileInputs.cache
+c:\users\harry\source\repos\codeeditor\codeeditor\bin\Debug\WebDev2.exe.config
+c:\users\harry\source\repos\codeeditor\codeeditor\bin\Debug\WebDev2.exe
+c:\users\harry\source\repos\codeeditor\codeeditor\bin\Debug\WebDev2.pdb
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.Properties.Resources.resources
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.exe
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.pdb
+c:\users\harry\source\repos\codeeditor\codeeditor\bin\Debug\WebDev2.exe.manifest
+c:\users\harry\source\repos\codeeditor\codeeditor\bin\Debug\WebDev2.application
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.TrustInfo.xml
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.exe.manifest
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.application
+c:\users\harry\source\repos\codeeditor\codeeditor\obj\Debug\codeeditor.csproj.ResolveComReference.cache
+C:\Users\Harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.Starter.resources
+C:\Users\Harry\source\repos\codeeditor\codeeditor\obj\Debug\WebDev2.Form1.resources
