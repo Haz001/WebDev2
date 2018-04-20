@@ -20,7 +20,9 @@ The source is uncommented and disorganised so just download it <a href="http://h
   <li>Slow at starting with provided download</li>  
   <li>Will only show html elements with PHP files</li>  
   <li>Uses internet explorer browser to view</li>  
-  <li>Not finnished</li>  
+  <li>Not finnished</li>
+  <li>Browser hates jquery</li>  
+  <li>Browser hates anything new</li>  
 </ul>  
 
 ## Legal
