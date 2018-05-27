@@ -23,6 +23,8 @@ The source is uncommented and disorganised so just download it <a href="http://h
   <li>Not finnished</li>
   <li>Browser hates jquery</li>  
   <li>Browser hates anything new</li>  
+  <li>HTA files are a bit of a problem to it.</li>
+  <li>Undo's are very glichy at the moment.</li>
 </ul>  
 
 ## Legal
@@ -41,6 +43,6 @@ This program is not 100% secure.
   <li>What does Full Edit do? It is a way of editting that shows you the whole file.</li>
   <li>What does Section Edit do? It is a way of editting that shows you the file in section, it will show you the CSS, HTML and JS in diffrent tabs like CodePen. This still needs to be made.</li>
   <li>What does Build do? It is a very bad website builder for building the webpage. This still needs to be made.</li>
-  <li>Why does Drag 'n' Drop box not work? I'm working on this part.</li>
+  <li>Why does drag 'n' drop cause a glitch in Full Edit? I'm working on drag n'n drop in this area.</li>
   <li>How did you make this? A lot of time of crawling the web and talking to rubber ducks.</li>
 </ul>
